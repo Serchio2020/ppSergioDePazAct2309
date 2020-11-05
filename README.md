@@ -2,7 +2,7 @@
 <br>
 <font style="color: Blue"> Fecha Guatemala, Noviembre 2020 </font>
 <br>
-<font style="color: Blue"> Presentacion Proyecto  </font>
+<h2><font style="color: Blue"> Presentacion Proyecto  </font> </h2>
 <font style="color: Blue"> Este proyecto consiste en la creacion de aplicacion de escritorio, enlazada a base de datos con Sql server y automatizada por herramienta de robotica UiPath. </font>
 <hr>
 <center><img src="imagenes/robotlogo.jpg" width="auto" height="auto"> </center>
@@ -15,21 +15,6 @@ Pagina directorio del proyecto
 <hr>
 <br>
 
-<a href="https://github.com/Serchio2020/Proyecto_SergioDePaz_201221022/tree/master/Proyecto_SergioDePaz_201221022" Ir al proyecto</a> </td>
+"https://github.com/Serchio2020/Proyecto_SergioDePaz_201221022/tree/master/Proyecto_SergioDePaz_201221022" 
 
 
-<table>
-
-	<tr>
-		<td>Estudiante </td>
-		<td> Enlace </td>
-
-	</tr>
-
-	<tr>
-		<td>Sergio Vinicio De Paz Giron </td>
-		<td> <a href="https://github.com/Serchio2020/Proyecto_SergioDePaz_201221022/tree/master/Proyecto_SergioDePaz_201221022" Ir al proyecto</a> </td>
-
-	</tr>
-		
-</table>
